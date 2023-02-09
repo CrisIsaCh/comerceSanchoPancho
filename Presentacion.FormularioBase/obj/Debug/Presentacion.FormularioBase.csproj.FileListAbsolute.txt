@@ -1,0 +1,14 @@
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.AssemblyReference.cache
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Sanchopancho\XCommerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources

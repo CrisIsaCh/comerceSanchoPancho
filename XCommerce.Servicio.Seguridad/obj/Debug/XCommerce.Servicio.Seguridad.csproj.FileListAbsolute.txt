@@ -1,0 +1,15 @@
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll.config
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.Servicio.Seguridad.pdb
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.xml
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.AssemblyReference.cache
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.csproj.CopyComplete
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.Seguridad\obj\Debug\XCommerce.Servicio.Seguridad.pdb

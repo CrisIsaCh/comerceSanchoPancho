@@ -1,0 +1,6 @@
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\bin\Debug\XCommerce.Servicio.core.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\bin\Debug\XCommerce.Servicio.core.pdb
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\obj\Debug\XCommerce.Servicio.core.csproj.AssemblyReference.cache
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\obj\Debug\XCommerce.Servicio.core.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\obj\Debug\XCommerce.Servicio.core.dll
+D:\Sanchopancho\XCommerce\XCommerce.Servicio.core\obj\Debug\XCommerce.Servicio.core.pdb

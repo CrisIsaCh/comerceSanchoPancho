@@ -1,0 +1,8 @@
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource.resources
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+D:\Sanchopancho\XCommerce\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.AssemblyReference.cache

@@ -1,0 +1,35 @@
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+F:\Laboratorio 2 - Clases\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csprojAssemblyReference.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+D:\Personal CAD\Tecnicatura 2018\Laboratorio 2 - 2018\Comision 4\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll.config
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.dll
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\XCommerce.AccesoDatos.pdb
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.dll
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.xml
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.csproj.CopyComplete
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.dll
+D:\Sanchopancho\XCommerce\XCommerce.AccesoDatos\obj\Debug\XCommerce.AccesoDatos.pdb

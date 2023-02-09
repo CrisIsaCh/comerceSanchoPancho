@@ -1,0 +1,14 @@
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.AssemblyReference.cache
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00081_ABM_Clientes.resources
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._0008_Clientes.resources
+D:\Sanchopancho\XCommerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
